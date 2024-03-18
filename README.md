@@ -1,13 +1,14 @@
-Title: RustScape2D MapEditor\
+# RustScape2D MapEditor
 Description: Map editor for [RustScape2D](https://github.com/Cadexcy23/RustScape2D).\
 Author: Caden Metzgus\
 Created: 4/23/2018\
-Platform: Windows\
-Controls:\
+Platform: Windows
+
+![image](https://github.com/Cadexcy23/Rustscape2D-MapEditor/assets/51723869/c9ee3dc4-232d-46d0-9f2c-e0d467046160)
+
+## Controls
 Click - Menus\
 WASD - Move camera
----
-![image](https://github.com/Cadexcy23/Rustscape2D-MapEditor/assets/51723869/c9ee3dc4-232d-46d0-9f2c-e0d467046160)
 
 ## Tile Tab
 Select the tile you want to use by clicking the arrows on the sides. Click on the map to change the tile.\
